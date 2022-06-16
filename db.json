@@ -1,0 +1,169 @@
+{
+  "section_list": [
+    {
+      "id": 0,
+      "title": "Overview",
+      "body": [
+        {
+          "id": 0,
+          "label": "Full Name",
+          "value": "Mr. Potato"
+        },
+        {
+          "id": 1,
+          "label": "Age",
+          "value": 53
+        },
+        {
+          "id": 2,
+          "label": "Email",
+          "value": "potato@grocery.com"
+        },
+        {
+          "id": 3,
+          "label": "Skin Color",
+          "value": "Brown"
+        },
+        {
+          "id": 4,
+          "label": "Job Title",
+          "value": "Senior Veggie Developer"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Additional Info",
+      "body": [
+        {
+          "id": 0,
+          "name": "phone_number",
+          "label": "Phone Number"
+        },
+        {
+          "id": 1,
+          "name": "weight",
+          "label": "Weigth (kg)",
+          "value": 0.2
+        },
+        {
+          "id": 2,
+          "name": "height",
+          "label": "Height (cm)"
+        },
+        {
+          "id": 3,
+          "name": "place_of_birth",
+          "label": "Place of Birth"
+        },
+        {
+          "id": 4,
+          "name": "company",
+          "label": "Company",
+          "value": "KFC"
+        },
+        {
+          "id": 5,
+          "name": "postal_code",
+          "label": "Postal Code"
+        },
+        {
+          "id": 6,
+          "name": "address",
+          "label": "Address",
+          "type": "textarea"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fields of Interest",
+      "body": [
+        {
+          "id": 0,
+          "category": "Side Dishes",
+          "items": [
+            {
+              "id":0,
+              "label": "French Fries"
+            },
+            {
+              "id":1,
+              "label": "Crispy Fries"
+            },
+            {
+              "id":2,
+              "label": "Mashed Potatos"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "category": "Salads",
+          "items": [
+            {
+              "id":0,
+              "label": "Potato Salad (Veggie)"
+            },
+            {
+              "id":1,
+              "label": "Chicken Potato Salad"
+            },
+            {
+              "id":2,
+              "label": "Olivier Salad"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "Junks",
+          "items": [
+            {
+              "id":0,
+              "label": "Potato Chips"
+            },
+            {
+              "id":1,
+              "label": "Potato Nuggets"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "Baked Dishes",
+          "items": [
+            {
+              "id":0,
+              "label": "Meat and Potato pie"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "Desserts",
+          "items": [
+            {
+              "id":0,
+              "label": "Potato Donuts"
+            },
+            {
+              "id":1,
+              "label": "Potato Pancakes"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "Omelets",
+          "items": [
+            {
+              "id":0,
+              "label": "Spanish Potato Omelet"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
